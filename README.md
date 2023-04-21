@@ -1,1 +1,0 @@
-# com.avokiddo.games.we_argh_pirgyui
